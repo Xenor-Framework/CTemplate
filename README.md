@@ -1,2 +1,3 @@
-# CTemplate
- A template to create applications written in C for linux
+# A simple C template
+
+Just run ./build.sh to build your application in max. release optimization
